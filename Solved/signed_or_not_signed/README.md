@@ -1,10 +1,6 @@
 # signed or not signed
 Pwn
 
-## Challenge 
-
-## Hint
-
 ## Solution
 
 Decompile

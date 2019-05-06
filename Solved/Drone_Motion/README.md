@@ -22,13 +22,13 @@ We are given a log file with direction coordinates.
 
 Using matplotlib in python, I plotted the coordinates on a plane.
 
-![Figure_0.png](Figure_0.png)
+![Solved/Figure_0.png](Solved/Figure_0.png)
 
 From this, we see that the drone flys up, then draws something (I presume the flag), then lands.
 
 Hence, I panned the graph display until the flag is visible.
 
-![Figure_1.png](Figure_1.png)
+![Solved/Figure_1.png](Solved/Figure_1.png)
 
 ## Flag
 
